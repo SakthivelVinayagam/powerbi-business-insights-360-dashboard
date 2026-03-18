@@ -1,0 +1,78 @@
+# 📊 Business Insights 360 – Power BI Dashboard
+
+## 🚀 Project Overview
+Business Insights 360 is an interactive Power BI dashboard designed to analyze business performance across multiple departments such as finance, sales, marketing, and supply chain.
+
+The dashboard provides a 360-degree view of business operations by tracking key metrics including revenue, profit margins, KPIs, and regional sales trends.
+
+---
+
+## 🔗 Live Dashboard
+👉 https://app.powerbi.com/view?r=eyJrIjoiNDEyNTI0Y2UtNTVhMC00ZWEyLTliMzQtMzllNjY3NmQ2N2ZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+---
+
+## 📌 Key Features
+- Interactive dashboards with drill-down & filtering
+- KPI tracking for business decision-making
+- Revenue & profit analysis
+- Forecast accuracy and supply chain insights
+- Executive-level summary view
+
+---
+
+## 📊 Dashboard Views
+
+### 🏠 Home View
+![Home](images/Home%20Page.png)
+
+### 💰 Finance View
+![Finance](images/Finance%20View.png)
+
+### 📈 Sales View
+![Sales](images/Sales%20View.png)
+
+### 📢 Marketing View
+![Marketing](images/Marketing%20View.png)
+
+### 🚚 Supply Chain View
+![Supply](images/Supply%20Chain%20View.png)
+
+### 👔 Executive View
+![Executive](images/Executive%20View.png)
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
+
+---
+
+## 📈 Key Insights
+- Identified top-performing regions
+- Analyzed profit margin trends
+- Evaluated product segment performance
+- Compared month-over-month growth
+
+---
+
+## 🎯 Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Dashboard Design & Storytelling
+- Business Analysis
+
+---
+
+## 🙌 Acknowledgement
+Special thanks to Codebasics, Dhaval Patel, and Hemanand Vadivelu for their excellent guidance and structured learning approach.
+
+---
+
+## ⭐ If you like this project
+Give it a ⭐ on GitHub!
