@@ -10,6 +10,12 @@ The dashboard provides a 360-degree view of business operations by tracking key 
 ## 🔗 Live Dashboard
 👉 https://app.powerbi.com/view?r=eyJrIjoiNDEyNTI0Y2UtNTVhMC00ZWEyLTliMzQtMzllNjY3NmQ2N2ZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+## 📁 Project File (PBIX)
+
+Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally.
+
+📥 Download PBIX File:  
+👉 https://drive.google.com/file/d/1cn6kMlUHDzOaaTQL2Fv6YF2Y9U0REvOc/view?usp=drivesdk
 ---
 
 ## 📌 Key Features
