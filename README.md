@@ -72,8 +72,3 @@ Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externa
 - DAX Calculations
 - Dashboard Design & Storytelling
 - Business Analysis
-
----
-
-## 🙌 Acknowledgement
-Special thanks to Codebasics, Dhaval Patel, and Hemanand Vadivelu for their excellent guidance and structured learning approach.
