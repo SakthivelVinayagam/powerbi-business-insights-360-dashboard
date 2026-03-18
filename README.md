@@ -24,22 +24,22 @@ The dashboard provides a 360-degree view of business operations by tracking key 
 ## 📊 Dashboard Views
 
 ### 🏠 Home View
-![Home](images/Home%20Page.png)
+![Home](Home%20Page.png)
 
 ### 💰 Finance View
-![Finance](images/Finance%20View.png)
+![Finance](Finance%20View.png)
 
 ### 📈 Sales View
-![Sales](images/Sales%20View.png)
+![Sales](Sales%20View.png)
 
 ### 📢 Marketing View
-![Marketing](images/Marketing%20View.png)
+![Marketing](Marketing%20View.png)
 
 ### 🚚 Supply Chain View
-![Supply](images/Supply%20Chain%20View.png)
+![Supply](Supply%20Chain%20View.png)
 
 ### 👔 Executive View
-![Executive](images/Executive%20View.png)
+![Executive](Executive%20View.png)
 
 ---
 
@@ -71,8 +71,3 @@ The dashboard provides a 360-degree view of business operations by tracking key 
 
 ## 🙌 Acknowledgement
 Special thanks to Codebasics, Dhaval Patel, and Hemanand Vadivelu for their excellent guidance and structured learning approach.
-
----
-
-## ⭐ If you like this project
-Give it a ⭐ on GitHub!
